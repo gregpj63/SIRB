@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "DevisSIRB_FadesBesserve",
-    "currentPage": "SIRB_FadesBesserve.html",
+    "currentPage": "videos.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1370,6 +1370,39 @@
                 "customStyle1": "display-7",
                 "caption": "Compact 64 tirs parade",
                 "active": false
+              },
+              {
+                "active": false,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=HVHaJuj59bM",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-1-16-30-54-42765.jpg",
+                "caption": "Compact 83 tirs nerve center"
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-1-16-31-37-180517.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=y5Pw9AivWUg",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Compact 100 tirs domino",
+                "active": false
+              },
+              {
+                "active": false,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=VawPRlDNntc",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-1-16-33-3-967543.jpg",
+                "caption": "Compact 100 tirs tempo"
+              },
+              {
+                "active": true,
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=M8quXAdUAew",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-2-1-16-33-52-929178.jpg",
+                "caption": "Compact 50 tirs tonitruant"
               }
             ]
           }
